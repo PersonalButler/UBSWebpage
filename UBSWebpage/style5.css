@@ -1,0 +1,139 @@
+img.logo{
+ 
+position:absolute;
+top: 0px;
+
+ 
+
+ 
+}
+
+
+button.backButton{
+
+ margin-top:430px;
+ position:absolute;
+margin-left:583px;
+  
+
+
+
+
+} 
+
+
+img.icon{
+ margin-top:-130px;
+ position:absolute;
+margin-left:183px;
+  
+}
+ 
+
+img.Mail{
+
+position:absolute;
+margin-top:140px;
+margin-left:80px;
+
+}
+
+img.find{
+
+position:absolute;
+margin-left:1190px;
+margin-top:154px;
+height:76px;
+width:135px;
+
+}
+
+
+table.tab {
+  table-layout: fixed;
+  border-collapse: collapse;
+  
+position:absolute;
+margin-left: 90px;
+margin-top: 160px;
+}
+
+
+th {
+  border: 1px solid #000;
+  font-size: 30px;
+ font-family: Calibri;
+  width: 300px;
+  height: 60px;
+}
+
+h1{
+
+margin-top:-200px;
+margin-left:-300px;
+
+}
+
+
+img.Entitlements
+
+position=absolute;
+margin-top:650px;
+margin-left: -180px;
+
+}
+
+ul.list{
+position=absolute;
+margin-top:233px;
+margin-left: 0px;
+z-index:4;
+
+
+}
+
+img.PicOutline{
+
+position=absolute;
+margin-top:310px;
+margin-left: 120px;
+
+
+}
+
+h3{
+
+margin-top: -30px;
+margin-left: 320px;
+
+}
+
+
+table.box{
+
+margin-top:60px;
+margin-left: 90px;
+position:absolute;
+z-index:3;
+height:600px;
+width: 1200px;
+
+}
+
+img.FirstLast{
+
+position:absolute;
+margin-top:-230px;
+margin-left:-550;
+
+}
+
+input.search{
+ 
+position=relative;
+margin-left:800px;
+margin-top:170px;
+height:40px;
+font-size: 22px;
+ 
+}

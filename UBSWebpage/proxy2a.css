@@ -1,0 +1,190 @@
+img.logo{
+ 
+position:absolute;
+top: 0px;
+
+img.boxa{
+
+position:absolute;
+margin-top:220px;
+transform: translate(-50%, -50%);
+
+}
+
+img.boxb{
+
+position:relative;
+margin-left:50px;
+margin-top:20px;
+
+
+}
+ 
+}
+ 
+img.icon{
+ 
+ position:absolute;
+margin-left:183px;
+ 
+
+ 
+}
+ 
+
+img.Mail{
+
+position:absolute;
+margin-top:140px;
+margin-left:80px;
+
+}
+
+
+img.find{
+
+position:absolute;
+margin-left:1190px;
+margin-top:154px;
+height:76px;
+width:135px;
+
+}
+
+img.find2{
+
+position:absolute;
+margin-left:460px;
+margin-top:-270px;
+height:76px;
+width:135px;
+
+}
+
+
+
+
+table.tab {
+  table-layout: fixed;
+  border-collapse: collapse;
+  
+position:absolute;
+margin-left: 90px;
+margin-top: 80px;
+}
+
+h2.EntitlementText{
+
+position:absolute;
+margin-left: 185px;
+margin-top: 600px;
+font-size:44px;
+font-family:Calibri;
+
+}
+
+img.RequestsButton{
+
+position:absolute;
+margin-left: -120px;
+margin-top: 850px;
+
+}
+
+th {
+  border: 1px solid #000;
+  font-size: 30px;
+ font-family: Calibri;
+  width: 300px;
+  height: 60px;
+}
+
+h1{
+
+margin-top:50px;
+margin-left: -150px;
+
+}
+
+img.Entitlements{
+
+position=absolute;
+margin-top:650px;
+margin-left: -180px;
+
+}
+
+ul.list{
+position=absolute;
+margin-top:-40px;
+margin-left: 200px;
+z-index:4;
+
+
+}
+
+img.PicOutline{
+
+position=absolute;
+margin-top:310px;
+margin-left: 120px;
+
+
+}
+
+h3{
+
+margin-top: -30px;
+margin-left: 320px;
+
+}
+
+
+table.box{
+
+margin-top:170px;
+margin-left: 90px;
+position:absolute;
+z-index:3;
+height:600px;
+width: 1200px;
+
+}
+
+input.searchButton2{
+
+position:absolute;
+margin-top:-410px;
+margin-left:50px;
+
+
+}
+
+input.searchTwo{
+
+position:absolute;
+margin-top:-252px;
+margin-left:-35px;
+height:40px;
+font-size: 22px;
+ 
+
+}
+
+h2.bundleText{
+
+margin-left: -600px;
+margin-top: -70px;
+
+
+}
+
+input.search{
+ 
+position=absolute;
+margin-left:800px;
+margin-top:170px;
+height:40px;
+font-size: 22px;
+ 
+}

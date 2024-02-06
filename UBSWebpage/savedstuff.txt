@@ -1,0 +1,28 @@
+<h2 class= "bundleText"> <img src = "square.png" alt="logo" align="center" class="boxa" height="80px" width="80px"  /> Suggested Bundle </h2>
+
+<h2 class = "EntitlementText"> <img src = "square.png" alt="logo" align="center" class="boxa" height="80px" width="80px"  /> Searched Entitlement  </h2>
+
+<a href = "Search.html"><img src = "search.png" alt="Mail" class="find" height="100px" width="100px"  ></a>
+
+<a href = "Search.html"><img src = "search.png" alt="Mail" class="find" height="100px" width="100px"  ></a>
+
+<select name = "month">
+<?php
+for($d=1;$d<20;$d++){
+
+if ($d<10)
+
+}
+	
+
+<option value="<php echo "$dd";?>"><?php echo "$dd";?></option>
+
+
+<?php
+?>
+</select>
+
+
+
+
+<img src = "FirstLastName.png" alt="logo" class="FirstLast" height="120px" width="400px"  />
